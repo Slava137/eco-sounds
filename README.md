@@ -1,1 +1,1 @@
-# Project - (eco-sounds)[https://slava137.github.io/eco-sounds/ecosounds/]
+# Project - [https://slava137.github.io/eco-sounds/ecosounds/](eco-sounds)
