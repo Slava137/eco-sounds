@@ -1,3 +1,1 @@
-*https://rolling-scopes-school.github.io/slava137-JSFEPRESCHOOL/portfolio/
-# slava137-JSFEPRESCHOOL
-Private repository for @slava137
+[https://slava137.github.io/eco-sounds/ecosounds/](https://slava137.github.io/eco-sounds/ecosounds/)
