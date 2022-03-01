@@ -1,2 +1,1 @@
-# slava137-JSFEPRESCHOOL
-Private repository for @slava137
+# Project - (eco-sounds)[https://slava137.github.io/eco-sounds/ecosounds/]
